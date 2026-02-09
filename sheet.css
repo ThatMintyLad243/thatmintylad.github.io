@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Helvetica;
+  src: url(helvetica-bold.woff);
+}
+body {
+	font-family: Helvetica, sans-serif;
+}
+span {
+	display: ruby;
+}
+a {
+	text-decoration: none;
+}
